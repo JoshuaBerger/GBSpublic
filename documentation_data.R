@@ -1,5 +1,5 @@
 # total_production.R ====
-#' Total_production aaa bbb
+#' Total_production aaa bbb ccc
 #'
 #' Dataset containing the total production of each (region; industry) pair from EXIOBSAE data in MEUR
 #' Computed by GBSteam based on EXIOBASE final demand data (Y) and Leontief inverse matrix, defined as Y.L_inverse_matrix
